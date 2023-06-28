@@ -1,5 +1,5 @@
 # Number2Text      [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-Number on picture to text with torch
+Number on picture to text with pytorch
 <br>
 ### ⚠️ recommanded version: python 3.9
